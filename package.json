@@ -1,0 +1,15 @@
+{
+  "name": "all-souls-web-page",
+  "version": "1.0.0",
+  "description": "All Souls Website",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "lite": "lite-server -port 10001",
+    "start": "npm run lite"
+  },
+  "author": "Jordan Ton",
+  "license": "ISC"
+}
